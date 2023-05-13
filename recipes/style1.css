@@ -1,0 +1,22 @@
+.im{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+    width: 700px;
+}
+.hh{
+    font-size: 35px;
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+.hhh,h3{
+    font-size: 30px;
+    color: orangered;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:700;
+}
+.ho,h5{
+    color:brown
+}
